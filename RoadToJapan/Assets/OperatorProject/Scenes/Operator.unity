@@ -692,12 +692,12 @@ PrefabInstance:
     m_Modifications:
     - target: {fileID: 1095677191967943179, guid: 594589115e2c4b946995984f22ef6fea, type: 3}
       propertyPath: m_Url
-      value: file://D:/repo/vr-remote-operator/RoadToJapan/Assets/OperatorProject/Assets/Resources/vecteezy_sunset-over-verona-city-landscape-italy_19465382.mov
+      value: file:///D:/repo/vr-remote-operator/RoadToJapan/Assets/OperatorProject/Assets/Resources/stream.mp4
       objectReference: {fileID: 0}
     - target: {fileID: 1095677191967943179, guid: 594589115e2c4b946995984f22ef6fea, type: 3}
       propertyPath: m_VideoClip
       value: 
-      objectReference: {fileID: 32900000, guid: 4e1c879c1ccbcd446bb85c1667305b73, type: 3}
+      objectReference: {fileID: 32900000, guid: 17aac4a5f7e13cb468b4350d6044d6e0, type: 3}
     - target: {fileID: 1095677191967943179, guid: 594589115e2c4b946995984f22ef6fea, type: 3}
       propertyPath: m_DataSource
       value: 1
